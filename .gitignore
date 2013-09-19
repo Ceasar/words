@@ -1,3 +1,5 @@
+books/
+dictionary.txt
 *.py[cod]
 
 # C extensions
