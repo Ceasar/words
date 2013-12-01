@@ -1,6 +1,12 @@
 words
 =====
 
+.. image:: https://badge.fury.io/py/words.png
+    :target: http://badge.fury.io/py/words
+
+.. image:: https://pypip.in/d/words/badge.png
+        :target: https://crate.io/packages/words/
+
 Get large collection of words from books.
 
 Usage
