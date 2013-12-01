@@ -9,13 +9,34 @@ words
 
 Get large collection of words from books.
 
-Usage
------
+Installation
+------------
 
-1. Make a directory called ``books/``
-2. Put ``.txt`` files in it. Presumably large ones, i.e. books, which are easily available from Gutenberg_.
-3. Run ``words.py`` and wait a moment.
-4. Receive ``dictionary.txt``.
+To install, simply:
+
+.. code-block:: bash
+
+    $ pip install words
+
+Quickstart
+----------
+
+Begin by making a directory called ``books/``::
+
+    $ mkdir books
+
+Next, insert files you wish to extract words from. Presumably large ones,
+i.e. books, which are easily available from Gutenberg_.
+
+Then, execute ``words.py`` (which can be run anywhere).::
+
+    $ words.py
+
+You should now have a file called ``dictionary.txt`` containing a large list
+of words.::
+
+    $ ls
+    books/  dictionary.txt
 
 Description
 -----------
