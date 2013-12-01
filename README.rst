@@ -8,7 +8,7 @@ Usage
 
 1. Make a directory called ``books/``
 2. Put ``.txt`` files in it. Presumably large ones, i.e. books, which are easily available from Gutenberg_.
-3. Run ``python words.py`` and wait a moment.
+3. Run ``words.py`` and wait a moment.
 4. Receive ``dictionary.txt``.
 
 Description
